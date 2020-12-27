@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name ="ExpTest">
+
+<test name ="Adhoc">
+<classes>
+<class name ="PIIT_BootCamp.Expedia.com.Expediaa"></class>
+</classes>
+</test>
+</suite>
